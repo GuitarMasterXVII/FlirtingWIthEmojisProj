@@ -1,23 +1,24 @@
-# Compiled class file
-*.class
+<!DOCTYPE html>
+<html lang="en">
 
-# Log file
-*.log
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="project.css" </head>
 
-# BlueJ files
-*.ctxt
+    <body>
+        <h1>Flirting through Emoji</h1>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p><strong>I SHOULD</strong> be able to click this emoji and it will simply wink at you...cuz U R A QT 3.14 ;D.</p>
+        <div class="emoji.happy.active">😃</div>
+        <div class="emoji.winky">😉</div>
+        <script src="project.js"></script>
+    </body>
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+</html>
